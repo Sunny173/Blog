@@ -36,3 +36,7 @@ $ hexo deploy
 ```
 
 More info: [Deployment](https://hexo.io/docs/deployment.html)
+
+漂亮主题
+https://github.com/pinggod/hexo-theme-jekyll
+https://github.com/litten/hexo-theme-yilia
