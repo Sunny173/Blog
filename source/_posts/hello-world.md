@@ -41,5 +41,14 @@ More info: [Deployment](https://hexo.io/docs/deployment.html)
 https://github.com/pinggod/hexo-theme-jekyll
 https://github.com/litten/hexo-theme-yilia
 
-图片不能展示
+git常用命令
+
+1.初始化仓库
+git init
+2.添加远程分支
+git reomte add name url
+3.提交代码
+add.
+git commit -m
+git push
 
